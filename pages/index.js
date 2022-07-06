@@ -6,7 +6,7 @@ import Date from '../components/date';
 
 
 import { getSortedPostsData } from '../lib/posts';
-import { Button } from '../components/Button';
+
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
