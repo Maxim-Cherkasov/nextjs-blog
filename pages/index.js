@@ -25,7 +25,9 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hello, I’m Maxim. I’m a frontend developer.
-           You can contact me on <a href="https://twitter.com/CherkasovMaxim">Twitter.</a></p>
+           You can contact me on
+           <a href="https://twitter.com/CherkasovMaxim">Twitter.</a>
+        </p>
         <p>
           (This Blog i made using official{' '}
           <a href="https://nextjs.org/learn">Next.js tutorial</a>.)
