@@ -29,7 +29,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <h1 className={`${utilStyles.headingLg} ${utilStyles.textAlignCenter}`}>
-          Мой текстовый блог
+          Текст Блог
         </h1>
       </section>
 
