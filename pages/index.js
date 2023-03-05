@@ -3,9 +3,7 @@ import Layout, { siteTitle } from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import Date from "../components/date";
-
 import { getSortedPostsData } from "../lib/posts";
-import { Button } from "../components/Button";
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
@@ -27,6 +25,7 @@ export default function Home({ allPostsData }) {
       <Head>
         <title>{siteTitle}</title>
       </Head>
+
       <section className={utilStyles.headingMd}>
         <h1 className={`${utilStyles.headingLg} ${utilStyles.textAlignCenter}`}>
           Текст Блог
