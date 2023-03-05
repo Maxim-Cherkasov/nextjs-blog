@@ -5,6 +5,22 @@ import Link from "next/link";
 import Date from "../components/date";
 import { getSortedPostsData } from "../lib/posts";
 
+function setPhilosophyTitle({ title }) {
+  return (
+    title === "Шесть важнейших жизненных настроек: День 1" && (
+      <h4 style={{ marginTop: "0" }}>Философия</h4>
+    )
+  );
+}
+
+function setNextJsTitle({ title }) {
+  return (
+    title == "When to Use Static Generation v.s. Server-side Rendering" && (
+      <h4>Next.js</h4>
+    )
+  );
+}
+
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData();
   return {
@@ -36,13 +52,8 @@ export default function Home({ allPostsData }) {
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, category }) => (
             <li className={utilStyles.listItem} key={id}>
-              {title === "Шесть важнейших жизненных настроек: День 1" && (
-                <h4 style={{ marginTop: "0" }}>Философия</h4>
-              )}
-              {title ==
-                "When to Use Static Generation v.s. Server-side Rendering" && (
-                <h4>Next.js</h4>
-              )}
+              {setPhilosophyTitle({ title })}
+              {setNextJsTitle({ title })}
               <Link href={`/posts/${id}`}>
                 <a>{title}</a>
               </Link>
