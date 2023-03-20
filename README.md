@@ -1,1 +1,1 @@
-My text blog. My Code sections consists of a description of my coding skills.
+My text blog with a detailed descrition of my coding skills.
