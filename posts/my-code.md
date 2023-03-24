@@ -30,7 +30,7 @@ category: "code"
 
 1. Угадайте число загаданное компьютером. У вас есть 20 попыток. Код находится в папке 05-Guess-My-Number repo, site
 
-2. Сыграйте в кости со своим другом. Код находится в папке 06-Pig-Game repo, site
+2. Сыграйте в кости со своим другом. Код находится в папке 06-Pig-Game [repo](https://github.com/Maxim-Cherkasov/js-pig-game), [site](https://maxim-cherkasov.github.io/js-pig-game/)
 
 ## Еще проекты на CSS
 
