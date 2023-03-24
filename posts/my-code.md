@@ -12,19 +12,11 @@ category: "code"
 
 3. Полностью могу применять **JavaScript** код со всех разделов репозитория [repo](https://github.com/Maxim-Cherkasov/JS-Learning)
 
-## CSS
-
-1. **Верстка** макета интернет магазина мебельной компании в рамках мастер класса по верстке, с добавлением товара в корзину, множеством слайдеров и интересных решений на чистом **JavaScript**. Использование функционала из шаблона по верстке. [repo](https://github.com/Maxim-Cherkasov/funiro__v2-production) , [site](https://funiro-pink.vercel.app/)
-
-2. Стильный прототип сайта на Bootstrap 5, с карточками проектов на английском. [repo](https://github.com/Maxim-Cherkasov/webpack-bootstrap), [site](https://maxim-cherkasov.github.io/webpack-bootstrap/)
-
-3. **Верстка** сайта с использованием SCSS, JS. [repo](https://github.com/Maxim-Cherkasov/portfolio), [site](https://maxim-cherkasov.github.io/portfolio/index.html)
-
 ## React/Next.js
 
-1. Новый курс React по официальной документации React. Проект конвертации макета с сортировкой в таблице, находится в папке **reactMockup** [repo](https://github.com/Maxim-Cherkasov/react-official2-next)
+1. Блог на Next.js с автоматической конвертацией markdown файлов в посты-страницы. [repo](https://github.com/Maxim-Cherkasov/nextjs-blog)
 
-2. Блог на Next.js с автоматической конвертацией markdown файлов в посты-страницы. Курс в рамках официальной документации Next.js. [repo](https://github.com/Maxim-Cherkasov/nextjs-blog)
+2. Новый курс React по официальной документации React. Проект конвертации макета с сортировкой в таблице, находится в папке **reactMockup** [repo](https://github.com/Maxim-Cherkasov/react-official2-next)
 
 ## Игры на JavaScript
 
@@ -32,10 +24,14 @@ category: "code"
 
 2. Сыграйте в кости со своим другом. Код находится в папке 06-Pig-Game [repo](https://github.com/Maxim-Cherkasov/js-pig-game), [site](https://maxim-cherkasov.github.io/js-pig-game/)
 
-## Еще проекты на CSS
+## CSS
 
-1. Создание сайта с нуля: Telegram каналы для фронтенд разработчиков. [repo](https://github.com/Maxim-Cherkasov/frontend-telegram-channels), [site](https://maxim-cherkasov.github.io/frontend-telegram-channels/)
+1. **Верстка** макета **интернет магазина** мебельной компании в рамках мастер класса по верстке, с **добавлением товара в корзину**, множеством слайдеров и интересных решений на чистом JavaScript. Использование функционала из шаблона по верстке. [repo](https://github.com/Maxim-Cherkasov/funiro__v2-production) , [site](https://funiro-pink.vercel.app/)
 
-2. Верстка сайта: Посуточная аренда квартир. [repo](https://github.com/Maxim-Cherkasov/real-estate-resp), [site](https://maxim-cherkasov.github.io/real-estate-resp/)
+2. **Верстка** сайта с использованием SCSS, JS. [repo](https://github.com/Maxim-Cherkasov/portfolio), [site](https://maxim-cherkasov.github.io/portfolio/index.html)
 
-3. Создание сайта под ключ. Грузоперевозки. Продвижение Яндекс директ. Написание текста. [repo](https://github.com/Maxim-Cherkasov/cargo-transportation), [site](https://cargo-transportation.vercel.app/)
+3. **Создание сайта с нуля**: Telegram каналы для фронтенд разработчиков. [repo](https://github.com/Maxim-Cherkasov/frontend-telegram-channels), [site](https://maxim-cherkasov.github.io/frontend-telegram-channels/)
+
+4. **Верстка** сайта: Посуточная аренда квартир. [repo](https://github.com/Maxim-Cherkasov/real-estate-resp), [site](https://maxim-cherkasov.github.io/real-estate-resp/)
+
+5. **Создание сайта под ключ**. Грузоперевозки. Продвижение Яндекс директ. Написание текста. [repo](https://github.com/Maxim-Cherkasov/cargo-transportation), [site](https://cargo-transportation.vercel.app/)
