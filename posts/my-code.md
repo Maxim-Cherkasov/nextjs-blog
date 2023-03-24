@@ -28,14 +28,14 @@ category: "code"
 
 ## Игры на JavaScript
 
-1. Угадайте число загаданное компьютером. У вас есть 20 попыток. Код находится в папке 05-Guess-My-Number repo, site
+1. Угадайте число загаданное компьютером. У вас есть 20 попыток. Код находится в папке 05-Guess-My-Number [repo](https://github.com/Maxim-Cherkasov/js-game-guess-my-number), [site](https://maxim-cherkasov.github.io/js-game-guess-my-number/)
 
 2. Сыграйте в кости со своим другом. Код находится в папке 06-Pig-Game [repo](https://github.com/Maxim-Cherkasov/js-pig-game), [site](https://maxim-cherkasov.github.io/js-pig-game/)
 
 ## Еще проекты на CSS
 
-1. Создание сайта с нуля: Telegram каналы для фронтенд разработчиков. repo, site
+1. Создание сайта с нуля: Telegram каналы для фронтенд разработчиков. [repo](https://github.com/Maxim-Cherkasov/frontend-telegram-channels), [site](https://maxim-cherkasov.github.io/frontend-telegram-channels/)
 
-2. Верстка сайта: Посуточная аренда квартир. repo, site
+2. Верстка сайта: Посуточная аренда квартир. [repo](https://github.com/Maxim-Cherkasov/real-estate-resp), [site](https://maxim-cherkasov.github.io/real-estate-resp/)
 
-3. Создание сайта под ключ. Грузоперевозки. Продвижение Яндекс директ. Написание текста. repo, site
+3. Создание сайта под ключ. Грузоперевозки. Продвижение Яндекс директ. Написание текста. [repo](https://github.com/Maxim-Cherkasov/cargo-transportation), [site](https://cargo-transportation.vercel.app/)
