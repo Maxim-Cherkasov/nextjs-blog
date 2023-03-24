@@ -1,1 +1,1 @@
-next js 12 blog after learning official tutorial
+My text blog with a detailed descrition of my coding skills.
